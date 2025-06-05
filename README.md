@@ -1,6 +1,6 @@
 # Chat-backup-self-bot
 
-This bot automatically backs up all incoming private messages to a Telegram channel, including the sender's full name, username, and user ID.
+This bot automatically backup all incoming private messages to a Telegram channel, including the sender's full name, username, and user ID.
 
 <h2> EN </h2>
 -----
